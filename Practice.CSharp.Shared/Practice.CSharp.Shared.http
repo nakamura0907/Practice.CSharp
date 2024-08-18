@@ -1,0 +1,6 @@
+@Practice.CSharp.Shared_HostAddress = http://localhost:5171
+
+GET {{Practice.CSharp.Shared_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
