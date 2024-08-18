@@ -1,6 +1,7 @@
 ﻿namespace Practice.CSharp.Shared.Partial
 {
-    public partial class PartialSample : InterfaceA
+    public interface InterfaceA
     {
+        public void A();
     }
 }
